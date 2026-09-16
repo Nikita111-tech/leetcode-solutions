@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Nikita111-tech/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Nikita111-tech/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Nikita111-tech/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Nikita111-tech/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikita111-tech/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
