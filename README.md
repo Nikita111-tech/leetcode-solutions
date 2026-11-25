@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nikita111-tech/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikita111-tech/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Nikita111-tech/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Nikita111-tech/leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Nikita111-tech/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikita111-tech/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Nikita111-tech/leetcode-solutions/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
